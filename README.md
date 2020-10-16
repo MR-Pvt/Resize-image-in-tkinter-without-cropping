@@ -1,1 +1,1 @@
-# MR-Pvt-Resize-image-in-tkinter-without-cropping
+# Resize-image-in-tkinter-without-cropping
