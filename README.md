@@ -10,3 +10,5 @@ And you have to import all these like this
 2. import tkinter as tk
 3. from PIL import ImageTk, Image
 4. from resizeimage import resizeimage
+
+the rest is in the .py file 
